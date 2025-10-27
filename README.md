@@ -2,7 +2,7 @@
 <h1 align="center">🍪 Cookie Classifier</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR7E2K7OMzW/giphy.gif" width="220" alt="cookie animation"/>
+  <img src="assets/cookie_animation.gif" width="220" alt="cookie animation"/>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ The **Cookie Classifier** is a fun yet powerful **machine learning project** tha
 It demonstrates the **end-to-end classification workflow**, from **data creation** and **feature engineering** to **model evaluation**, **visualization**, and **hyperparameter tuning**.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM0eDB2d3RtOTg2cDhlOGEwN3VhZzZodDlnbWJ3eDJkbnpxdHdyYiZqNCZlcD12hhdUxPOhCL/giphy.gif" width="600" alt="ml animation"/>
+  <img src="assets/ml_animation.gif" width="600" alt="ml animation"/>
 </p>
 
 ---
@@ -119,26 +119,26 @@ It demonstrates the **end-to-end classification workflow**, from **data creation
 CookieClassifier/
 │
 ├── data/
-│ └── cookies.csv
+│   └── cookies.csv
 │
 ├── notebooks/
-│ └── cookie_classifier.ipynb
+│   └── cookie_classifier.ipynb
 │
 ├── src/
-│ ├── data_preprocessing.py
-│ ├── train_model.py
-│ ├── evaluate_model.py
+│   ├── data_preprocessing.py
+│   ├── train_model.py
+│   ├── evaluate_model.py
 │
 ├── assets/
-│ ├── model_comparison.png
-│ ├── confusion_matrix.png
-│ └── feature_importance.png
+│   ├── cookie_animation.gif       # add your GIF here
+│   ├── ml_animation.gif           # add your GIF here
+│   ├── success.gif                # small footer GIF/animation
+│   ├── model_comparison.png
+│   ├── confusion_matrix.png
+│   └── feature_importance.png
 │
 ├── requirements.txt
 └── README.md
-
-yaml
-Copy code
 
 ---
 
